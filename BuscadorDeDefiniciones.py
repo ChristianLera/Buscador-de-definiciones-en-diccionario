@@ -1,7 +1,7 @@
 """
 Buscador de Definiciones MULTI-API
 Versión 2.0 - Soporta 6 APIs diferentes + selección manual
-Autor: Asistente Profesional
+Autor: Christian Lera
 """
 
 import tkinter as tk
